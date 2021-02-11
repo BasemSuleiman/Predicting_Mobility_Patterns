@@ -1,4 +1,4 @@
-# Indoor WiFi Positioning
+# Predicting Indoor Mobility Patterns - Intelligent Analysis
 
 This study uses user-generated WiFi fingerprints to derive locations at different granularity levels. 
 
